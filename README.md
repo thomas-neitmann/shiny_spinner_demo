@@ -9,5 +9,5 @@ In addition to more than 10 built-in spinners, the package offers the possibilit
 Check out my example shiny app to see `shinycustomloader` in action by running this command from within `R`:
 ```r
 if (!"shiny" %in% installed.packages()) install.packages("shiny")
-shiny::runGitHub("shiny_spinner_demo", "thomas-neitmann", subdir = "spinner_demo")`
+shiny::runGitHub("shiny_spinner_demo", "thomas-neitmann", subdir = "spinner_demo")
 ```
